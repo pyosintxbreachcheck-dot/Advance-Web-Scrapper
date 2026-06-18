@@ -36,15 +36,15 @@ import base64
 import mimetypes
 
 # ==================== ENHANCED CONFIGURATION ====================
-BOT_TOKEN = "8274939432:AAEFhoLmiaeZdoIqOSaUDhzPAvjS0SLJRRw"
-OWNER_ID = 7792242306
-OWNER_USERNAME = "@shauryapy
+BOT_TOKEN = ""
+OWNER_ID = 
+OWNER_USERNAME = 
 
 # Channel Settings
-CHANNEL1_LINK = "https://t.me/pyosintx"
-CHANNEL2_ID = -1002726744300
-CHANNEL2_LINK = "https://t.me/cutez"
-WELCOME_IMAGE_URL = "https://t.me/bjjakoaaiqjjhq/3"
+CHANNEL1_LINK = ""
+CHANNEL2_ID = 
+CHANNEL2_LINK = ""
+WELCOME_IMAGE_URL = "A"
 
 # Bot Settings
 MAX_FILE_SIZE = 200 * 1024 * 1024  # 200MB (increased)
@@ -1466,7 +1466,7 @@ Always respect website terms of service.
         welcome_text = format_text(f"""
 👋 Welcome {message.from_user.first_name}!
 
-I'm UnknownGuy Advanced Web Scraper - the most powerful scraping tool.
+I'm Shaurya,s Advanced Web Scraper - the most powerful scraping tool.
 
 🛠️ When you send me a website URL, I automatically:
 1. 🔍 Detect backend technologies (PHP, Python, Node.js, etc.)
